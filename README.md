@@ -1,8 +1,7 @@
 <h2>Hello World! 👋 I'm Eric </h2> <!-- TODO: Build & Launch Portfolio Website !-->
 <p>I'm currently pursuing my second-year studies in cybersecurity at <strong><a href="https://www.apu.edu.my">Asia Pacific University</a></strong>. I'm actively seeking internships and based in Kuala Lumpur 🇲🇾. Currently, I'm working on side projects, exploring potential Final Year Project ideas, and pursuing my path towards becoming a pentester/ethical hacker 🕵️‍♂️🔒.</p>
 
-<p> <a href="https://medium.com/@erichdryn"><img src="https://img.shields.io/badge/-@erichdryn-14c767?style=flat-amp;labelColor=14c767&amp;logo=medium&logoColor=white;link=https://medium.com/@erichdryn" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/erichendryani/"><img src="https://img.shields.io/badge/-@erichdryn-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=linkedin&amp;link=https://www.linkedin.com/in/erichendryani/" alt="LinkedIn Badge"></a> 
-
+<p> <a href="https://medium.com/@erichdryn"><img src="https://img.shields.io/badge/Medium-black?style=plastic&logo=medium&link=https%3A%2F%2Fmedium.com%2F%40erichdryn" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/erichendryani/"><img src="https://img.shields.io/badge/Linkedin-blue?style=plastic&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ferichendryani%2F" alt="LinkedIn Badge"></a>  <a href="https://www.instagram.com/erichdryn/"><img src="https://img.shields.io/badge/Instagram-red?style=plastic&logo=Instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Ferichdryn%2F" alt=:Instagram Badge"></a> <a href="https://open.spotify.com/user/8h0pwf79f89hpqxp22gig8vgs?si=c39c708307b14cee" ><img src="https://img.shields.io/badge/Spotify-1ED760?style=plastic&logo=Spotify&logoColor=white&link=https%3A%2F%2Fopen.spotify.com%2Fuser%2F8h0pwf79f89hpqxp22gig8vgs%3Fsi%3D47557e670f7047f3" alt=:Spotify Badge"></a> <p> 
 <p> 🚰Remember to Hydrate! </p>
 
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTczNzdjdTF4M3dlOHEwc3hnNW1qYm1rdXl6YXJhOXptZGQ3aDA2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oje6kPRIef6Gk/giphy.gif" />
@@ -23,9 +22,10 @@
 - [CTF Writeups](https://medium.com/@erichdryn)
 
 
-## 🛠️ My Most Used Languages
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cofastic&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="cofastic" />
-
+## 🛠️ My Toolkit
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="python" <p> <p align="left"> <img src="https://img.shields.io/badge/MySQL-3776AB?style=plastic&logo=mysql&logoColor=white" alt="mysql"
+ <p>
+ 
 <!-- ## 📫 Reach Out To Me!:
 Follow My Socials!
 
