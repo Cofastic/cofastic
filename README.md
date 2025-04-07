@@ -13,7 +13,7 @@
  <strong> Cloud Security </strong> and a pinch of <strong>AI/LLM</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Cofastic">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="https://medium.com/@erichdryn">my medium</a>.</li>
-<li>📙 Check out my <a href="">resume</a>.</li> <!-- TODO: Add Resume !-->
+<li>📙 Check out my <a href="https://github.com/Cofastic/cofastic/blob/main/resume.md">resume</a>.</li> 
 <li>🏬 Appointed as the Cybersecurity Co-Lead at Google Developer Student Clubs @ APU <a href="https://gdg.community.dev/gdg-on-campus-asia-pacific-university-of-technology-innovation-kuala-lumpur-malaysia/">GDGoC</a></li>
 </ul>
 
