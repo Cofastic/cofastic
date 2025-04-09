@@ -8,7 +8,7 @@
 
 <h2>⚡️ About Me</h2>
 <ul>
-<!--> <li>🔭 I’m currently working on <a href="">...</a>.</li> <!-->
+ <li>🔭 I’m currently working on deploying a <a href="https://github.com/Cofastic/ctf-handbook"> CTF Playbook! </a>.</li>
 <li>🧐 Currently Learning about <strong>Web Vulnerabilities,</strong></li> 
  <strong> Cloud Security </strong> and a pinch of <strong>AI/LLM</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Cofastic">Github</a>.</li>
